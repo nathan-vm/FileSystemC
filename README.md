@@ -2,7 +2,7 @@
 Project to simulate a distributed file system following EXT3
 
 **Authors: 
-Vinícius Vaz,
+Vinícius Vaz(https://github.com/vinicvaz),
 Nathan Marcelino**
 
 ## STEP 1:
